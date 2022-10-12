@@ -26,6 +26,10 @@
   margin-bottom: 10px;
 }
 
+.navigation__list-item::marker {
+  color: #02535F;
+}
+
 .navigation__list-link {
   color: #02535F;
   border-bottom: 1px solid #02535F;

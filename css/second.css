@@ -29,8 +29,8 @@
 
 .second__figure {
   height: 506px;
-  border: 1px solid black;
   margin-bottom: 30px;
+  font-size: 0;
 }
 
 .second__figure-img {
@@ -42,6 +42,11 @@
 
 .second__figcaption {
   padding: 15px 30px;
+  border: 1px solid black;
+  border-top: 0;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
 }
 
 .second__figcaption-text {
